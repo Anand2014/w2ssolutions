@@ -25,7 +25,7 @@
             
             <div class="span4">
             <h1>Start Now </h1>
-            <span class="getAQote">Click Here</span>
+            <a href="contacts" class="getAQote">Click Here</a>
            <!-- <a class="btn btn-large btn-orange" href="#">Click Here</a>-->
             </div>
             </div>

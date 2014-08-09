@@ -6,7 +6,7 @@
             <div class="row">
             <div class="iphoneBannerImg"></div>
             <div class="iphoneBannerCount">
-            Adopt customer engagement through our  iPhone Apps, revenue will follow.
+            Adopt customer engagement through our  iPhone Apps, revenue will follow
             <h2>Start your App discussion rightaway!</h2>
             </div>
             <div class="iphoneBannerAward"></div>
@@ -15,7 +15,7 @@
             
 			
 			 <div class="row subHead headline">
-            <h1>iPHONE APPLICATION DEVELOPMENT </h1>
+            <h1><i>iPhone</i> APPLICATION DEVELOPMENT </h1>
             <p class="headerText">We build iPhone Applications that provide amazing <br /> <b>Customer experiences!</b></p>
             <p>Our iPhone Apps are designed to the quality that our Customers demand. Our development team is able to convert an idea into a live App as quickly as possible. Being first to market or on the App Store can have significant impact on sustainability and long-term success - and were here to make your idea happen.</p>
             
