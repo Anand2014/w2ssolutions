@@ -20,7 +20,7 @@
 </li>
 <li>
 <div class="span12 slideBar">
-<p>Successful mobile App project requires <br /><b>clear leadership</b> and <b>vision</b></p>
+<p>Successful mobile App project requires<br/> <b>clear leadership</b> and <b>vision</b></p>
 </div>
 </li>
 <li>

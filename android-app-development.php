@@ -17,7 +17,7 @@
 			 <div class="row subHead headline">
             <h1>ANDROID APPLICATION DEVELOPMENT</h1>
            
-            <p class="headerText"> W2S Solutions will be your <b>Mobility Center of Excellence</b> to maximize your Android App’s <b>Return on Investment</b>. </p>
+            <p class="headerText"> W2S Solutions will be  your <br /> <b>Mobility Center of Excellence</b> to maximize <br /> your Android App’s  <b>Return on Investment</b>. </p>
             <p>Our W2S Solutions Android developers don’t just build amazing mobile products; we actually bring them to life with the help of a clear <a href="http://in.linkedin.com/in/madhubalankesavan/" target="_blank">leadership</a> and vision. </p>
             
             <p>W2S best practices enable rapid and scalable development and deployment. We leverage Lean, Agile and Kanban principles to deliver unsurpassed quality in the shortest possible delivery time. Our principles also allow us to be extremely response to our Enterprise Customers and their <a href="enterprise-application-development">enterprise applications</a>.</p>
