@@ -190,29 +190,9 @@
   }
 	</script>  
 <style>
- #div1, #div2, #div3, #div4, #div5, #div6, #div7, #div8, #div9 {
-   position: absolute;
-  top: -50px;
-color: white;
-  z-index: 10;
-color: white; background-color: gray;
-  
-  }
-    #div1, #div2, #div3, #div4, #div5, #div6, #div7, #div8, #div9 {  
-    visibility: hidden;  
-  }
-  
-  #div1 span, #div2 span, #div3 span, #div4, #div5, #div6, #div7, #div8, #div9 span{
-   
-  margin-right: 0px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  }
-
-  #mapImg img{
-  height: 100%;
-	width: 100%;
-  }
+#div1, #div2, #div3, #div4, #div5, #div6, #div7, #div8, #div9 { position: absolute; top: -50px; color: white; z-index: 10; color: white; background-color: gray; visibility: hidden; }
+#div1 span, #div2 span, #div3 span, #div4, #div5, #div6, #div7, #div8, #div9 span{ margin-right: 0px; margin-top: 20px; margin-bottom: 20px; }
+#mapImg img{ height: 100%; width: 100%; }
 </style>
 </body>
 </html>

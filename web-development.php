@@ -2,28 +2,16 @@
 
 <div id="content" class="webDevelop webdevelopmentPage">
 		<div class="fullwidthbanner-container">
-				<div class="fullwidthbanner">
-                    <ul>
-                    <li data-transition="fade">
-                    <!--<div class="bannerBar banner2"></div>
-                    <div class="caption title sft" data-x="-60"  data-y="110" data-speed="700" data-start="1500" data-easing="easeOutBack">Customized Janitorial Reporting Software <br />  for a leading Healthcare Center </div>
-                    <div class="appTitle caption text sfl" data-x="-60"  data-y="240" data-speed="700" data-start="2500" data-easing="easeOutBack">Mark Heller</div>
-                    <div class="caption text sfb" data-x="-60" data-y="300" data-speed="700" data-start="3000" data-easing="easeOutBack"> <div class="award-2"></div> </div>
-                    <div class="caption fade" data-x="550" data-y="65" data-speed="700" data-start="700" data-easing="easeOutBack"> <div class="bannerImg-2"></div> </div>-->
-                    <div class="webDevelopBannerImg-1"></div>
-                    </li>
-                    					
-                    <li data-transition="fade">
-                    <!--<div class="bannerBar banner3"></div>
-                    <div class="caption title sft" data-x="-60" data-y="110" data-speed="700" data-start="1500" data-easing="easeOutBack"> Retail Sales Solution for a <br />well-known Shopping Mall.</div>
-                    <div class="appTitle caption text sfl" data-x="-60" data-y="240" data-speed="700" data-start="2500" data-easing="easeOutBack">AGS</div>
-                    <div class="caption text sfb" data-x="-60" data-y="300" data-speed="700" data-start="3000" data-easing="easeOutBack"> <div class="award-3"></div> </div>
-                    <div class="caption fade" data-x="370"  data-y="115" data-speed="700" data-start="700" data-easing="easeOutBack"> <div class="bannerImg-3"></div> </div>-->
-                    <div class="webDevelopBannerImg-2"></div>
-                    </li>
-                    </ul>
-                    
-                </div><!-- end .fullwidthbanner -->
+            <div class="fullwidthbanner">
+            <ul>
+            <li data-transition="fade">
+            <div class="webDevelopBannerImg-1"></div>
+            </li>			
+            <li data-transition="fade">
+            <div class="webDevelopBannerImg-2"></div>
+            </li>
+            </ul>
+            </div><!-- end .fullwidthbanner -->
             </div><!-- end .fullwidthbanner -->
             
             <div class="row subHead headline">

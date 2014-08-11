@@ -115,19 +115,13 @@
            <div class="hireUsbar3"><p class="hireUsText3">ENGAGEMENT: We’ve built intuitive POS systems for Restaurants that you could benefit from as an Owner</p></div>
            <div class="hireUsbar4"><p class="hireUsText4">ECOMMERCE: Our E-commerce solution allows Start-ups and SME’s to build sites quickly and start selling online right away</p></div>
            <div class="hireUsbar5"><p class="hireUsText5">END USERS: We’ve built numerous Apps that focus heavily on Consumer behaviour and usage statistics  </p></div>
-           <div class="hireUsbar6"><p class="hireUsText6">MANAGEMENT: Our latest success story is with a pa in Dubai. Through mobile management we’ve been able to turnaround and transform their success</p></div>
+           <div class="hireUsbar6"><p class="hireUsText6">MANAGEMENT: Our latest success story is with a spa in Dubai. Through mobile management we’ve been able to turnaround and transform their success</p></div>
            <div class="hireUsbar7"><p class="hireUsText7">BRICK AND MORTAR RETAIL: Besides our easy e-commerce product, we’ve also developed billing systems, inventory management, and other various solutions for brick-and-mortar </p></div>
            <span class="clr"></span>
            </div>
            </div>
            
            <?php //include("include/box_contant.php") ?>
-           
-           
-           <div class="row">
-           <div class="headline"><h1> </h1></div>
-           
-           </div>
         </div><!-- end #content -->
 
 <?php include("include/footer.php"); ?>
