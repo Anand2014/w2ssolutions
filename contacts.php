@@ -1,5 +1,12 @@
 <?php include ("include/header.php"); ?>
-<div id="content">
+<style type="text/css">
+.contactUsPage{ display:block;}
+.contactUsPage .b0t70b-haAclf [style]{top:150px!important;}
+</style>
+<script type="text/javascript">
+$(".b0t70b-haAclf").css('top','150');
+</script>
+<div id="content" class="contactUsPage">
 		
 		<!-- /// CONTENT  /////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 			
@@ -50,7 +57,6 @@
 				<div class="span12">
 					
 					<h3>Get in touch with us</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
 					
 				</div><!-- end .span12 -->
 			</div><!-- end .row -->
@@ -125,6 +131,7 @@
 
 		</div><!-- end #content -->
 <!-- /// Form validate ////////  -->
+
 <script src="_layout/js/jqueryvalidate/jquery.validate.min.js"></script>
 <!-- /// Form submit ////////  -->
 <script src="_layout/js/jqueryform/jquery.form.min.js"></script>		

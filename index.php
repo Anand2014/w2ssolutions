@@ -50,7 +50,7 @@
 <div class="icon-box-1">
 <i class="ifc-camcoder"></i>
 <div class="icon-box-content"><h3><a href="#">IOS App development</a></h3>
-<p>At W2S, our <a href="iphone-app-development">iOS App Development</a>  provides industry leading concept-to-launch efficiency to get your product to market as quickly as possible. Our Developers use Agile Development Practices ensuring functional performance and user experience testing.</p>
+<p>At W2S, our <a href="iphone-app-development">iOS App Development Team</a>  provides industry leading concept-to-launch efficiency to get your product to market as quickly as possible. Our Developers use Agile Development Practices ensuring functional performance and user experience testing.</p>
 <span class="clr"></span><br />
 <a class="btn" href="iphone-app-development">Read more</a>
 </div>
@@ -88,7 +88,7 @@
 <i class="ifc-inbox"></i>
 <div class="icon-box-content">
 <h3><a href="#">Php development</a></h3>
-<p>At W2S, our  <a href="php-mysql-web-application-development">PHP Development</a> thrives off the spirit of innovation. Our experienced team takes on challenges with a positive and optimistic problem solving attitude. We break down challenges one layer at a time to achieve the desired results in a timeframe that consistently meets or exceeds expectations. Accelerating project execution and achieving results is what has got us word of mouth referrals from all of our past Clients.</p>
+<p>At W2S, our  <a href="php-mysql-web-application-development">PHP Development Team</a> thrives off the spirit of innovation. Our experienced team takes on challenges with a positive and optimistic problem solving attitude. We break down challenges one layer at a time to achieve the desired results in a timeframe that consistently meets or exceeds expectations. Accelerating project execution and achieving results is what has got us word of mouth referrals from all of our past Clients.</p>
 <span class="clr"></span>
 <a class="btn" href="php-mysql-web-application-development">Read More</a>
 </div>
@@ -115,7 +115,7 @@
 <div class="span12 botSpce10">
 <div class="headline">
 <h1>About Us</h1>
-<p>W2S Solutions specializes in assisting Organizations, <a href="enterprise-application-development">Business Owners</a>, and Entrepreneurs integrate with the world of modern technology. We believe this differentiation from competitors can increase customer interactions, sales, and overall performance regardless of industry and sector. Our vast experience in the global business markets adds value and perspective to our Customers and has propelled us into a leader across all areas of development, integration, and technology. Plus – we deliver our projects with integrity and quicker than our competitors – which always give our Customers a Way2Smile</p>
+<p>W2S Solutions specializes in assisting Organizations, <a href="enterprise-application-development">Business Owners</a>, and Entrepreneurs integrate with the world of modern technology. We believe this differentiation from competitors can increase customer interactions, sales, and overall performance regardless of industry and sector. Our vast experience in the global business markets adds value and perspective to our Customers and has propelled us into a leader across all areas of development, integration, and technology. Plus – we deliver our projects with integrity and quicker than our competitors – which always give our Customers a Way2Smile.</p>
 
 <p>We believe the World is getting smaller by the day. Our information technology services are utilized by customers on more than 3 continents and we pride ourselves on delivering innovative Web and Mobile products that help business reach their customers more efficiently regardless of distance.</p>
 </div>

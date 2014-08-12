@@ -20,7 +20,7 @@
             <div class="row subHead headline">
             <h1><i>iPad</i> APPLICATION DEVELOPMENT</h1>
            <p class="headerText">Successful project execution requires <br /> clear <b>leadership</b> and <b>strong vision.</b></p>
-           <p>iPads are becoming an increasing popular  productivity tool for many Businesses. Solutions can range from basic to extremely complex based on need. Out <a href="ipad-app-development">iPad Developers</a> always consider two major factors on each project: 1. Identification of the actual purpose of the App, and 2. Creating a user-centric design. Agile Development is important in iPad development as the core features are directly linked to user adoption and continued use.</p>
+           <p>iPads are becoming an increasing popular  productivity tool for many Businesses. Solutions can range from basic to extremely complex based on need. Our <a href="ipad-app-development">iPad Developers</a> always consider two major factors on each project: 1. Identification of the actual purpose of the App, and 2. Creating a user-centric design. Agile Development is important in iPad development as the core features are directly linked to user adoption and continued use.</p>
              <p>We approach all App projects with an attitude to define a great purpose with unique features that will lead to high download rates and actual value to your customers.</p>
             </div>
             <div class="divider single-line"></div>

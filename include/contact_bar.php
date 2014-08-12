@@ -3,7 +3,6 @@
             <div class="row">            
             <div class="span4">
             <div class="contactBarEmail">
-            <span class="emailAddress">info@way2smile.com</span>
             <ul class="contactEmailBar">
             <li><a href="https://www.facebook.com/way2smileSolutionspvtltd" target="_blank" class="socialMediaIcons-1"></a></li>
             <li><a href="https://twitter.com/w2ssolutions" target="_blank" class="socialMediaIcons-2"></a></li>
@@ -23,9 +22,9 @@
             </div>
             </div>
             
-            <div class="span4">
-            <h1>Start Now </h1>
-            <a href="contacts" class="getAQote">Click Here</a>
+            <div class="span4 startNowBar">
+           <span class="emailAddress">info@way2smile.com</span>
+            <!--<a href="contacts" class="btn btn-large btn-orange">Start Now</a>-->
            <!-- <a class="btn btn-large btn-orange" href="#">Click Here</a>-->
             </div>
             </div>
