@@ -15,7 +15,7 @@
 </div>
 </div>
 <div class="portfolio-item-description">
-<h4><a href="#">Card2Contact - Android App</a><span></span></h4>
+<h4>Card2Contact - Android App<span></span></h4>
 </div>
 </div>
 </div>
@@ -29,7 +29,7 @@
 </div>
 </div>
 <div class="portfolio-item-description">
-<h4><a href="#">Culture Builders - Web App</a><span></span></h4>
+<h4>Culture Builders - Web App<span></span></h4>
 </div>
 </div>
 </div>
@@ -45,7 +45,7 @@
 </div>
 </div>
 <div class="portfolio-item-description">
-<h4><a href="#">SpareTime - iPhone App</a><span></span></h4>
+<h4>SpareTime - iPhone App<span></span></h4>
 </div>
 </div>
 </div>
@@ -60,7 +60,7 @@
 </div>
 </div>
 <div class="portfolio-item-description">
-<h4><a href="#">Sugar Spa App - Hybrid App</a><span></span></h4>
+<h4>Sugar Spa App - Hybrid App<span></span></h4>
 </div>
 </div>
 </div>

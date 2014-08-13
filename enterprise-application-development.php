@@ -6,8 +6,7 @@
             <div class="row">
             <div class="enterpriceBannerImg"></div>
             <div class="enterpriceBannerCount">
-            Web and Mobile Enterprise Apps can fuel operational efficiencies and at the same time be highly engaging analytical tool for your Customers
-            <!--<h2>Ipad Apps</h2>-->
+            An Enterprise app fuels operational efficiency and an engaging analytical tool for your Customers
             </div>
             <div class="enterpriceBannerAward"></div>
             </div>
