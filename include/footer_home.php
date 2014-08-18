@@ -118,7 +118,7 @@
                     
                             <div class="textwidget">
    
-                                <p class="text-right last"><a href="terms_and-conditions.php">Terms of Use</a> | <a href="privacy_policy.php">Privicy Policy</a> | <a href="#">Site Map</a></p>
+                                <p class="text-right last"><a href="terms-and-conditions">Terms of Use</a> | <a href="privacy-policy">Privicy Policy</a> | <a href="#">Site Map</a></p>
 
                             </div><!-- end .textwidget -->
                             

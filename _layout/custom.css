@@ -24,8 +24,13 @@
 .caption a.btn.btn-large{padding:3px 10px;font-size:10px;}
 .caption.icons i{width:40px;height:40px;font-size:18px;line-height:40px;}
 }
-@media only screen and (min-width:480px) and (max-width:767px){.fullwidthbanner-container,
-.fullwidthbanner-container .fullwidthabnner{max-height:245px !important;}
+@media only screen and (min-width:480px) and (max-width:767px){
+.fullwidthbanner-container,.fullwidthbanner-container .fullwidthabnner{max-height:245px !important;}
+}
+
+@media only screen and (min-width:1920px){
+.webDevelop .fullwidthbanner-container{max-height:720px !important;}
+.webDevelopBannerImg-1, .webDevelopBannerImg-2 { min-height: 720px!important; height:720px; background-size:100%;}
 }
 
 

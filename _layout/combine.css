@@ -4625,9 +4625,14 @@ ul.contactEmailBar { margin: 10px 0 0;}
 
 
 
+/*	@media screen and (min-device-width:1920px){
+	.webDevelop .fullwidthbanner-container{max-height:1000px;}
+	.webDevelopBannerImg-1, .webDevelopBannerImg-2 {height:1000px; background-size:100%;}
+	}*/
+	
 	@media screen and (min-device-width:1680px) and (max-device-width:1919px) {
-    .webDevelop .fullwidthbanner-container{max-height:700px!important;}
-	.webDevelopBannerImg-1, .webDevelopBannerImg-2 { height:700px; background-size:100%;}
+    .webDevelop .fullwidthbanner-container{max-height:900px!important;}
+	.webDevelopBannerImg-1, .webDevelopBannerImg-2 { height:900px; background-size:100%;}
 	}
 	
 	@media screen and (min-device-width:1600px) and (max-device-width:1679px) {
@@ -4642,14 +4647,14 @@ ul.contactEmailBar { margin: 10px 0 0;}
 	
 	@media screen and (min-device-width:1366px) and (max-device-width:1439px) {
     .hireUsBar { min-height: 450px;}
-	.webDevelop .fullwidthbanner-container{max-height:510px;}
-	.webDevelopBannerImg-1, .webDevelopBannerImg-2 { height:510px; background-size:100%;}
+	.webDevelop .fullwidthbanner-container{max-height:535px;}
+	.webDevelopBannerImg-1, .webDevelopBannerImg-2 { height:535px; background-size:100%;}
 	}
 	
 	@media screen and (min-device-width:1280px) and (max-device-width:1365px) {
     .quickFormBar span.quickFormIcon-5 input { width: 570px;}
-	.webDevelop .fullwidthbanner-container{max-height:510px;}
-	.webDevelopBannerImg-1, .webDevelopBannerImg-2 { height:510px; background-size:100%;}
+	.webDevelop .fullwidthbanner-container{max-height:500px;}
+	.webDevelopBannerImg-1, .webDevelopBannerImg-2 { height:500px; background-size:100%;}
 	}
 	
 	@media screen and (min-device-width:1024px) and (max-device-width:1279px) {
