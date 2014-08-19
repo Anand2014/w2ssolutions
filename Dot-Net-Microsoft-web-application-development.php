@@ -45,7 +45,7 @@
                 </div><!-- end .span4 -->
             </div><!-- end .row -->
              <?php include("include/contact_bar.php") ?> <!-- end .box -->
-            <div class="divider single-line"></div>
+           <!-- <div class="divider single-line"></div>-->
             
             <div class="row">
           <p>Many <a href="enterprise-application-development">Small and Medium Enterprises (SME’s)</a> do not have the time and resources to focus on technology. Sometimes this means important aspects of digital media marketing, customer engagement, web analytics, and moving to a Cloud aren’t fully examined and utilized.</p>

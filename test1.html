@@ -1,0 +1,115 @@
+<script language="javascript" src="http://eisabainyo.net/demo/js/jquery.validation.js"></script>
+<script language="javascript" src="http://eisabainyo.net/demo/js/jquery-1.2.6.js"></script>
+
+<form action="" method="post" id="myform">
+<fieldset>
+<legend>Registration</legend>
+<div class="required-field">
+<label for="firstname">First Name</label>
+<input type="text" name="firstname" id="firstname">
+</div>
+<div>
+<label for="lastname">Last Name</label>
+<input type="text" name="lastname" id="lastname">
+</div>
+<div class="required-field">
+<label for="username">Username</label>
+<input type="text" name="username" id="username">
+</div>
+<div class="required-field">
+<label for="email">Email</label>
+<input type="text" name="email" id="email">
+</div>
+<input type="submit" name="submit" value="Submit" class="submit">
+</fieldset>
+</form>
+
+<script type="text/javascript">
+	
+		$(document).ready(function()
+		{
+		$("#myform").submit(function () {
+	return $(this).validation(); //returns true or false
+});
+
+		$('#capturea').attr('disabled', 'disabled');
+		$('#captured').attr('disabled', 'disabled');
+		
+			jQuery.validator.addMethod("accept", function(value, element, param) 
+			{
+				return value.match(new RegExp("." + param + "$"));
+			});
+			
+			$("#contactfrm").validate(
+			{
+					
+					debug: true,
+					rules: 
+					{
+						name:
+						{
+							accept: "[a-zA-Z0-9 ]+",
+							required: true
+						},
+						email:
+						{
+							required: true,
+							email: true
+						}
+										
+					},
+					errorElement: "div",
+					messages: 
+						{
+								name:
+								{
+									required: "Obligatorisk felt.",
+									accept: "Navnet m&aring; angis bare alfanumeriske tegn"
+								},
+								email:
+								{
+									required: "Obligatorisk felt."
+								}
+						},
+/*						submitHandler: function(form) 
+						{
+							$.post('mail.php', $("#contactfrm").serialize(), function(data) 
+							{
+									$('#CompleteForm').hide();
+									$('#tournamentresult').html(data).show().slideDown(100);
+							});
+						}*/
+						
+						//$("#progress").html("<img src='images/loading.gif'/ > Please Wait...");
+						
+					submitHandler: function(form) 
+				{
+					var url = "mail.php"; // the script where you handle the form input.															
+					//$("#LoadingEmail").html("<img src='loading.gif' />");
+					$("#LoadingEmail").empty();
+					$("div.loader").show();  
+						$.ajax({
+							   type: "POST",
+							   url: url,
+							   data: $("#contactfrm").serialize(), // serializes the form's elements.
+							   success: function(data)
+							   {
+							   //$("#contactfrm").hide();
+							    // $("#progress").hide();
+							   //alert("test"); // show response from the php script.
+							   $("div.loader").fadeOut('normal');  
+							   $("#LoadingEmail").html(data);
+							   //$("#Response").append(data);
+							   }
+							 });
+				}
+						
+						
+			});
+
+			
+		});
+		
+
+	</script>
+	

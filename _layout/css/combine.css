@@ -3837,7 +3837,7 @@ input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    border: 20px solid #ED1E25;
+    border: 2px solid #ED1E25;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     margin-bottom: 20px;
@@ -4622,6 +4622,11 @@ ul.contactEmailBar { margin: 10px 0 0;}
 .startNowBar { padding-top: 35px;}
 .emailUsBar a.btn { color: #FFFFFF; font-size: 18px;}
 .emailUsBar .btn-orange:hover { background: #ED1E25;}
+
+.teamLink{ list-style:none; position:relative;}
+.teamLink span{ display:none; position:absolute; top:40%; left:20%; padding:5px 10px;}
+.teamLink:hover span{ display:block; background:rgba(255,255,255,0.7);}
+
 
 
 
