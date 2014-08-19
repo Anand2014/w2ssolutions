@@ -2128,12 +2128,12 @@ td:first-child {
 }
 
 
-.iphoneBanner { background-image:url(../../_content/index/slider/banner_bg-5.jpg); background-repeat:repeat; background-size:100%; background-position:center; width: 100%; display: block; height: 453px; position: relative; overflow: hidden;}
+.iphoneBanner { background-image:url(../../_content/index/slider/banner_bg-5.jpg); background-repeat:repeat; background-size:100% 100%; background-position:center; width: 100%; display: block; height: 500px; position: relative; overflow: hidden;}
 .iphoneBannerImg {    background: url(../../_content/index/slider/bannerImg-5.png) no-repeat;
     width: 730px;
     height: 453px;
     position: absolute;
-    top: 0;
+    top:47px;
     left: -115px;
 }
 .iphoneBannerCount {
@@ -2163,13 +2163,13 @@ td:first-child {
     height: 95px;
     position: absolute;
     right: 0px;
-    top: 325px;
+    top: 350px;
 }
 
-.ipadBanner { background-image:url(../../_content/index/slider/banner_bg-6.jpg); background-repeat:repeat; background-size:100%; background-position:center;
+.ipadBanner { background-image:url(../../_content/index/slider/banner_bg-6.jpg); background-repeat:repeat; background-size:100% 100%; background-position:center;
     width: 100%;
     display: block;
-    height: 453px;
+    height: 500px;
     position: relative;
     overflow: hidden;
 }
@@ -2178,7 +2178,7 @@ td:first-child {
     width: 680px;
     height: 453px;
     position: absolute;
-    top: 0;
+    top: 47px;
     right: -100px;
 }
 .ipadBannerCount {
@@ -2208,13 +2208,13 @@ td:first-child {
     height: 95px;
     position: absolute;
     left: 0px;
-    top: 325px;
+    top: 350px;
 }
 
-.androidBanner { background-image:url(../../_content/index/slider/banner_bg-5.jpg); background-repeat:repeat; background-size:100%; background-position:center;
+.androidBanner { background-image:url(../../_content/index/slider/banner_bg-5.jpg); background-repeat:repeat; background-size:100% 100%; background-position:center;
     width: 100%;
     display: block;
-    height: 453px;
+    height: 500px;
     position: relative;
     overflow: hidden;
 }
@@ -2223,7 +2223,7 @@ td:first-child {
     width: 730px;
     height: 453px;
     position: absolute;
-    top: 0;
+    top: 47px;
     left: -115px;
 }
 .androidBannerCount {
@@ -2253,7 +2253,7 @@ td:first-child {
     height: 95px;
     position: absolute;
     right: 0px;
-    top: 325px;
+    top: 350px;
 }
 
 .enterpriceBannerImg {
@@ -2455,10 +2455,11 @@ td:first-child {
 .ipadContent {
     padding-bottom: 0!important;
 }
-.enterpriceBanner { background-image:url(../../_content/index/slider/banner_bg-7.jpg); background-repeat:repeat; background-size:100%; background-position:center;
+.enterpriceBanner { background-image:url(../../_content/index/slider/banner_bg-7.jpg); background-repeat:repeat; background-position:center;
+    background-size:100% 100%;
     width: 100%;
     display: block;
-    height: 453px;
+    height: 500px;
     position: relative;
     overflow: hidden;
 }
