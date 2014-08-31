@@ -1,8 +1,41 @@
 <?php include ("include/header.php"); ?>
 
 <div id="content" class="iphonePage">
+
+			<!--<div class="iphoneBanner">
+            <div class="row">
+            <div class="span7"><img src="_content/index/slider/bannerImg-5.png" alt="" style="width:100%;"></div>
+            <div class="span5 iphoneBannerCont">
+            <span>Adopt customer engagement through our iPhone Apps, revenue will follow</span>
+            <h2>tart your App<br /> discussion rightaway!</h2>
+            </div>
             
-            <div class="iphoneBanner">
+            </div>
+            </div>-->
+
+             <!--<div class="fullwidthbanner-container">
+				<div class="fullwidthbanner">            
+                <ul>
+                <li data-transition="fade">
+                <img src="_content/index/slider/banner_iphone_bg.jpg" alt="">
+                <div class="caption fade" data-x="-20" data-y="35" data-speed="700" data-start="700" data-easing="easeOutBack">
+                <img src="_content/index/slider/bannerImg-5.png" alt="">
+                </div>
+                        
+                <div class="iphoneBannerCount sft" data-x="520" data-y="140" data-speed="700" data-start="1200" data-easing="easeOutBack">Adopt customer engagement through our iPhone Apps, revenue will follow
+                </div>
+                        
+                <div class="caption iphoneBannerCount sfl" data-x="520" data-y="270" data-speed="700" data-start="2000" data-easing="easeOutBack">
+                <h2>tart your App<br /> discussion rightaway!</h2>
+                </div>
+                </li>
+                </ul>
+                </div><!-- end .fullwidthbanner ->
+            </div>--><!-- end .fullwidthbanner -->
+
+
+            
+           <div class="iphoneBanner">
             <div class="row">
             <div class="iphoneBannerImg"></div>
             <div class="iphoneBannerCount">

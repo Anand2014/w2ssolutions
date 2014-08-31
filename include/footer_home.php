@@ -44,7 +44,7 @@
                             <li>
                             	<i class="ifc-phone2"></i>
                                 Phone: +1 954 678 8492<br />
-                                Phone: +91 444 351 6331<br />
+                                Phone:  +91 99 6228 1249<!--+91 444 351 6331--><br />
                             </li>
                             <li>
                             	<i class="ifc-email"></i>

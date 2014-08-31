@@ -3,7 +3,7 @@
 	if(!empty($_POST['email']))
 	{	
 	
-		$to = "info@way2smile.com";
+		$to = "anand@way2smile.com";
 		$from =  $_POST['email'];
 
 		$subject = "w2ssolutions.com Visitor's Query";
@@ -29,6 +29,7 @@
 		$headers .= "X-MSMail-Priority: High\r\n"; 
 		$headers .= "Importance: High\r\n";
 		$headers .= 'X-Mailer: PHP/' . phpversion();
+		header("location: index.php");
 
 
 		$mail = mail($to, $subject, $message, $headers);

@@ -12,7 +12,7 @@
 <h4 class="widget-title"><i class="ifc-email"></i>Contact Information</h4><ul>
 <li><i class="ifc-home"></i>	8585 Spicewood Springs Road, <br />	# 1335, Austin, <br />	Texas - 78759</li>
 <li><i class="ifc-home"></i>	19, P.S. Tower,<br />Govindarajapuram 2nd Street, Adyar,<br />	Chennai - 600020</li>
-<li><i class="ifc-phone2"></i>Phone: +1 954 678 8492<br />Phone: +91 444 351 6331<br /></li>
+<li><i class="ifc-phone2"></i>Phone: +1 954 678 8492<br />Phone:  +91 99 6228 1249<!--+91 444 351 6331--><br /></li>
 <li><i class="ifc-email"></i>Email: <a href="mailto:Info@Way2Smile.com">Info@Way2Smile.com</a></li>
 <li><i class="ifc-globe_filled"></i>Web: <a href="http://w2ssolutions.com/">www.w2ssolutions.com</a></li>
 </ul></div></div>
